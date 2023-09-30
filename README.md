@@ -1,3 +1,4 @@
+![logo](https://github.com/ashmitha20/ashmitha20/blob/main/ASHMITHA%20P%20R.png)
 <h1 align="center">Hi 👋, I'm Ashmitha P R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width=400px src="https://github.com/ashmitha20/ashmitha20/assets/132273348/23458a96-5e6e-45ad-94c8-c12c81c8a209">
